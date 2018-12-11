@@ -1,0 +1,1 @@
+(stty raw; cat > weather.log) < /dev/ttyUSB0
